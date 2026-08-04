@@ -59,7 +59,7 @@ ProofPost AI doesn't generate content — it **validates** it. Creators upload t
 | **Creator Pro** | ₹299/month | Active creators, college influencers |
 | **Creator Teams** | ₹799/month | Creator teams, college clubs, media communities |
 
-Full feature breakdown in [`/docs`](./docs) *(or link to your PDF/PPT here)*.
+
 
 
 
